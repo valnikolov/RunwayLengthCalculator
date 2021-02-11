@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculateRunwayLength {
+public class RunwayLengthCalculator {
 
     public static void main(String[] args) {
 
